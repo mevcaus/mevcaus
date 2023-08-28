@@ -1,6 +1,4 @@
 ### <div align="center">I'm Mev, a full-stack developer 👨‍💻</div>  
-    
-- 🌱 I’m currently studying algorithims
   
   
 ## My Skill Set  
