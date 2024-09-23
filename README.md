@@ -1,4 +1,4 @@
-### <div align="center">I'm Mev, a full-stack developer 👨‍💻</div>  
+### <div align="center">Hi I'm Mev, a full time computer science major at Boise State Univeristy and Hack Reactor alum. 👨‍💻</div>  
   
   
 ## My Skill Set  
