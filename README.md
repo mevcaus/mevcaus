@@ -1,4 +1,4 @@
-# Hey, I'm Mev 👋
+# Hey, I'm Mev
 
 CS student at **Boise State University** (Dec '26) and **Hack Reactor** alum. I like building things that actually work - mostly on the backend and full-stack side. REST APIs, CI/CD pipelines, databases, that kind of stuff. Looking for new grad SWE roles starting January 2027.
 
