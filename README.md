@@ -6,7 +6,7 @@ Right now I also work at BSU's IT Help Desk, supporting a campus of 25,000+. I b
 
 ## What I'm working on
 
-- **[JavaDropbox](https://github.com/mevcaus/JavaDropbox)** ([live demo](https://javadropbox.mevcaus.dev)) - A cloud file storage platform built with Java 21, Spring Boot 3, and PostgreSQL. File versioning, signed share links, an audit log, path traversal prevention, the whole deal.
+- **[JavaDropbox](https://github.com/mevcaus/JavaDropbox)** ([live demo](https://javadropbox.mevcaus.dev)) - A cloud file storage platform built with Java 21, Spring Boot 3, and PostgreSQL. File versioning, revocable share links, an audit log, path traversal prevention, the whole deal.
 - **[GoProxy](https://github.com/mevcaus/goproxy)** - A Layer 7 HTTP load balancer written in Go using only the standard library. Round-robin and least-connections routing, health checks, lock-free concurrency with `sync/atomic`.
 - **shop-watch** - A Go service running on Ubuntu that monitors Shopify stores and alerts 10 paying subscribers to restocks and price drops. Per-target health states, a dead-man switch, one-command rollback deploys.
 - **[Stackage Server](https://github.com/StackageApp/stackage-server)** - Node.js/Express backend for a social mobile app with real-time sync via Cloud Firestore.
